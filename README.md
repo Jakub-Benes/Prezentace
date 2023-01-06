@@ -1,0 +1,2 @@
+# Prezentace
+Prezentace o Linuxu.
